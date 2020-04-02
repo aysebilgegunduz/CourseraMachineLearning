@@ -9,3 +9,5 @@ You can either use matlab or octave to run codes
 `ex3.mx` is the guide file, you can follow the instructions.
 #### 4. Neural Networks
 `ex4.mx` is the guide file, you can follow the instruction to build a Neural Network
+#### 5. Advice for Applying Machine Learning
+`ex5.mx` is the guide file, you can follow the instruction to learn basic level tuning for your ML model.
