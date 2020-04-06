@@ -13,3 +13,5 @@ You can either use matlab or octave to run codes
 `ex5.mx` is the guide file, you can follow the instruction to learn basic level tuning for your ML model.
 #### 6. Support Vector Machines
 `ex6.mx` is the guide file you can follow the instruction to learn SVM and most importantly you'll develop a Spam Classifier.
+
+`ex7.mx` is the guide file you can follow the instruction to apply K-Means and Principal Component Analysis. You can also learn dimensionality reduction and reconstruction of a sample.
