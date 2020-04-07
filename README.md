@@ -13,8 +13,8 @@ You can either use matlab or octave to run codes
 `ex5.mx` is the guide file, you can follow the instruction to learn basic level tuning for your ML model.
 #### 6. Support Vector Machines
 `ex6.mx` is the guide file you can follow the instruction to learn SVM and most importantly you'll develop a Spam Classifier.
-
+#### 7. Gaussian Distribution, Anomaly Detection and Recommendation Systems
 `ex7.mx` is the guide file you can follow the instruction to apply K-Means and Principal Component Analysis. You can also learn dimensionality reduction and reconstruction of a sample.
 `ex8.mx' is the guid file you can follow the instruction to apply Anomaly Detection and to develop Recommender Systems.
 * In the first part of the exercise an Anomaly Detection Model is developed by using Gaussian Distribution and Threshold is defined by F1 Score.
-
+* In the second part of the exercise a Recommender System based on Collaborative Filtering is developed. Movie Lens 100K Dataset is used for the model. 
