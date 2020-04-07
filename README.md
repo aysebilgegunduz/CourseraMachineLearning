@@ -15,3 +15,6 @@ You can either use matlab or octave to run codes
 `ex6.mx` is the guide file you can follow the instruction to learn SVM and most importantly you'll develop a Spam Classifier.
 
 `ex7.mx` is the guide file you can follow the instruction to apply K-Means and Principal Component Analysis. You can also learn dimensionality reduction and reconstruction of a sample.
+`ex8.mx' is the guid file you can follow the instruction to apply Anomaly Detection and to develop Recommender Systems.
+* In the first part of the exercise an Anomaly Detection Model is developed by using Gaussian Distribution and Threshold is defined by F1 Score.
+
